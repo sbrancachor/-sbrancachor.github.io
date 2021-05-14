@@ -1,0 +1,19 @@
+{
+    "responseCode": "0",
+    "responseData": {
+        "strScore": "3300",
+        "strLimCredito": "258",
+        "intCantidadLineas": 4,
+        "action": "APROBAR",
+        "strRestricciones": "Precio de Equipo: Sin Restricciones. /,Precio de Chip: S/. 1 / POS 1 Especial: Equipo con descuento. Ver visor / Potencial Movistar Total / Código de Financiamiento: 3",
+        "strMsgScore": "NO APLICA a financiamiento, pago al contado, , , , , , , , , , , , ",
+        "strIdScoring": "S82006060031702",
+        "financiado": true,
+        "aplicaPPF": true,
+        "financiamientoAlta": "40",
+        "financiamientoCaeq": "35",
+        "capacidadFinanciamiento": "500",
+        "financiamientoPorta": null,
+        "strCodFinanciamiento": "3"
+    }
+}
